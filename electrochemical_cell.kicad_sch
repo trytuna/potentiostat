@@ -1052,6 +1052,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "pwl=\"0 0 10 0 10.1 5m 60 5m 60.1 10m 120 10m 120.1 20m 180 20m\""
+		(exclude_from_sim no)
+		(at 53.34 63.5 0)
+		(size 41.91 5.08)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "3fe237f4-adbf-4512-890c-59e2572f56d4")
+	)
 	(text_box "Randle's Equivalent Circuit of Electrochemical Cell (en.wikipedia.org/wiki/Randles_circuit)\n\nRcr = Solution resistance between the counter electrode and the reference electrode\nRrw = Solution resistance between the reference electrode and working electrode\nCdl = Due to the formation of Helmholtz double layer that leads to the capacitive behavior of charge storage at the surface of working electrode\nRct = Related with the redox current limited by the charge transport mechanism\nRw = Warburg-Impedanz\nCw = Warburg-Impedanz"
 		(exclude_from_sim no)
 		(at 26.67 74.93 0)
